@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "net.test"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "Test",
+    "packageName": "net.test",
+    "packageFolder": "net/test",
+    "serverPort": "8088",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDJmMjU3MzUxNTRlMzhjNDc4NzFjMDJhZjgzOGIyNjAxMjk1YjZiNDMzMThhOWE0MDMyOTY5NzY5ZDdhMjlhYTI3OTgyYjdjZGU4ZGY2MTZlOGFlOGFlZmQzNzI3ZjI5ZmJhM2U3YTc3MDg4ZmE1OGUyNTE4NzUzODgwYTk5MmI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1620299928163,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
